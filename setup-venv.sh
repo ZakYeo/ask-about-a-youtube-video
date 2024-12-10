@@ -20,3 +20,4 @@ else
     exit 1
 fi
 
+pip install yt-dlp openai
