@@ -7,7 +7,7 @@
 - Run the python script using `python3 ask-about-a-youtube-video.py`
 - Paste your YouTube URL of choice. The video will begin downloading. Then, you may query chatGPT about the video
 
-##Disclaimer
+## Disclaimer
 This script is intended for educational purposes only.
 It is designed to work with publicly accessible, Creative Commons-licensed, or user-owned content.
 Downloading videos from YouTube or other platforms may violate their Terms of Service
